@@ -7,7 +7,19 @@ body {
     margin-bottom: 100px;
 }
 
-#navbar {
+#mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
+}
+
+#mainNavbar .navbar-name{
+    color: rgb(55, 56, 56);
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ea1c2c;
 }
