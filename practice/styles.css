@@ -23,3 +23,8 @@ body {
 #mainNavbar .nav-link:hover {
     color: #ea1c2c;
 }
+
+.navbar.scrolled{
+    background-color: azure;
+    transition: background 500ms;
+}
